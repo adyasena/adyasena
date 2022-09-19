@@ -1,6 +1,6 @@
-<h1 align="center">annyeong 👋</h1>
-
-<h3 align="center">a self-proclaim developer</h3>
+<h1 align="left">annyeong 👋</h1>
+<img src="assets/img/adya.jpg" class="img-responsive" alt=""> </div>
+<h3 align="left">a self-proclaim developer</h3>
 
 <h3 align="left">hit me up on:</h3>
 <p align="left">

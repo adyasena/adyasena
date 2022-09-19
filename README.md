@@ -1,5 +1,5 @@
 # Annyeong 👋
-<img src="assets/img/adya.jpg" class="img-responsive" alt="">
+<img src="assets/img/adya.jpg" class="img-responsive" alt=""> </div>
 ## a self-proclaim developer
 - 🌱 currently learning at UGM
 - 📫 hit me up in instagram.com/dysnasp

@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/adyasena)
 <h1 align="center">annyeong 👋</h1>
 <img src="assets/img/adya.jpg" class="img-responsive" alt=""> </div>
 <h2 align="center">a self-proclaim developer</h3>
@@ -21,4 +22,3 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;</a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
-<a align="center">![Profile views](https://gpvc.arturio.dev/hasanchamdany)</a>

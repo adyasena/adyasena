@@ -27,6 +27,6 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=whitee" alt="figma" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=adyasena&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adyasena&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adyasena&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?user=adyasena&theme=dark&hide_border=true" /><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adyasena&theme=dark&hide_border=true" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyasena&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />

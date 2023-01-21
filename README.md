@@ -1,24 +1,34 @@
 ![Profile views](https://gpvc.arturio.dev/adyasena)
 <h1 align="center">annyeong 👋</h1>
 <img src="assets/img/adya.jpg" class="img-responsive" alt=""> </div>
-<h2 align="center">a self-proclaim developer</h3>
+<h2 align="center">a self-proclaim frontend developer<br>who currently being an IT student at UGM since 2020</h2>
 
 <h3 align="center">hit me up on:</h3>
 <p align="center">
-<a href="https://fb.com/dysnasp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dysnasp" height="30" width="40" /></a>&nbsp;
-<a href="https://instagram.com/dysnasp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dysnasp" height="30" width="40"/></a>&nbsp;
-<a href="https://linkedin.com/in/adyasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adyasena" height="30" width="40" /></a>
+<a href="https://fb.com/dysnasp" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="dysnasp" /></a>&nbsp;
+<a href="https://instagram.com/dysnasp" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="dysnasp" /></a>&nbsp;
+<a href="https://linkedin.com/in/adyasena" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="adyasena" /></a>
 </p>
 
 <h3 align="center">language and tools:</h3>
 <p align="center">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" alt="csharp" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="python" />&nbsp;
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="css3" />&nbsp;
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="html5" />&nbsp;
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />&nbsp;
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="react" />&nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="tailwindcss" />&nbsp;
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="php" />
+<br/>
+<img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white" alt="photoshop" />&nbsp;
+<img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white" alt="illustrator" />&nbsp;
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" alt="after effects" />&nbsp;
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=whitee" alt="figma" />
 </p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=adyasena&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adyasena&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adyasena&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+

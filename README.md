@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://fb.com/dysnasp" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="dysnasp" /></a>&nbsp;
 <a href="https://instagram.com/dysnasp" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="dysnasp" /></a>&nbsp;
-<a href="https://linkedin.com/in/adyasena" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="adyasena" /></a>
+<a href="https://linkedin.com/in/adyasena" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="adyasena" /></a>
 </p>
 
 <h3 align="center">language and tools:</h3>
@@ -27,8 +27,6 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=whitee" alt="figma" />
 </p>
 
-
 ![](https://github-readme-stats.vercel.app/api?username=adyasena&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adyasena&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adyasena&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-

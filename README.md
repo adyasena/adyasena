@@ -28,6 +28,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adyasena&theme=graywhite&hide_border=true" style="height: auto; width: 55%;"/>&nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adyasena&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="height: auto; width: 40%;"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adyasena&theme=graywhite&hide_border=true" height="160"/>&nbsp;
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adyasena&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="160"/>
 </p>

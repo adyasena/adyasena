@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white" alt="illustrator" />&nbsp;
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" alt="after effects" />&nbsp;
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=whitee" alt="figma" />
+<br/>
 </p>
 
 <p align="center">

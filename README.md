@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/adyasena)
+![Profile views](https://komarev.com/ghpvc/adyasena&color=blue)
 <h1 align="center">annyeong 👋</h1>
 <img src="assets/img/adya.jpg" class="img-responsive" alt=""> </div>
 <h2 align="center">a self-proclaim frontend developer<br>who currently being an IT student at UGM since 2020</h2>

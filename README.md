@@ -1,7 +1,7 @@
 [![Hits](https://hits.sh/github.com/adyasena.svg?label=Profile%20views&color=fcf952)](https://hits.sh/github.com/adyasena/)
 <h1 align="center">annyeong 👋</h1>
 <img src="assets/img/adya.jpg" class="img-responsive" alt=""> </div>
-<h2 align="center">a self-proclaim frontend developer<br>who currently being an IT student at UGM since 2020</h2>
+<h2 align="center">a self-proclaim frontend developer</h2>
 
 <h3 align="center">hit me up on:</h3>
 <p align="center">
